@@ -7,7 +7,7 @@
 }
 #navbarcomp ul>li{
     position: relative;
-    margin-left: 55px;
+    margin-left:50px;
     width: 100%;
     
     
@@ -22,13 +22,13 @@
 #description{
     position: relative;
    
-    font-size:  25px; 
+    font-size:25px; 
     color: #000;
 }
 
 #SCorp{
    
-    font-size:  28px; 
+    font-size:25px; 
     color: #CE0033;
 }
 .image-container{
@@ -40,13 +40,13 @@
 
 
 #paragraphe1{
-font-size: 25px;
+font-size:25px;
 color: #000;
 
 }
 
 #bouton{
-    font-size: 18px;
+    font-size:18px;
     background-color: #CE0033;
     width:168px;
     height:47px;
@@ -70,16 +70,16 @@ color: #000;
     }
     
 #SProd{
-    font-size:  28px; 
+    font-size:28px; 
     color: #CE0033;
 }
 #paragraphe2{
-    font-size: 25px;
+    font-size:25px;
     color: #000;
     
 }
 #btn{
-    font-size: 18px;
+    font-size:18px;
     background-color: #CE0033;
     width:168px;
     height:47px;
@@ -96,23 +96,23 @@ color: #000;
   
 }
 #cordonnees >p{
-    color: white;
+    color:white;
   
 }
 #footerfoot{
     
-display: flex;
+display:flex;
     
 }
 
 
 .nav-link text-body{
-    width: 50px;
+    width:50px;
     
 }
 .active-link{
     color: #ce0033 ;
-    border-bottom: 3px solid #CE0033;
+    border-bottom:3px solid #CE0033;
 
 }
 
@@ -122,8 +122,8 @@ display: flex;
 @media screen and (max-width: 984px) {
     .active-link{
         color: #ce0033 ;
-        border-bottom: 3px solid #CE0033;
-        width: 50px;
+        border-bottom:3px solid #CE0033;
+        width:50px;
     
     }
 
@@ -131,22 +131,22 @@ display: flex;
     
     }
 
-    @media screen and (max-width: 753px) {
+    @media screen and (max-width:753px) {
         #im1{
-        position: relative;
+        position:relative;
         width:400px;
         height:520px;
-        box-shadow: 10px;
-        border-radius: 20px;
-        left: 20px;
+        box-shadow:10px;
+        border-radius:20px;
+        left:20px;
         }
 
         #imgone{
             position: relative;
             width:400px;
             height:520px;
-           box-shadow: 10px;
-           border-radius: 20px;
+           box-shadow:10px;
+           border-radius:20px;
             }
 
             
@@ -155,20 +155,20 @@ display: flex;
         }
         @media screen and (max-width:354px) {
             #im1{
-                position: relative;
+                position:relative;
                 width:300px;
                 height:330px;
-                box-shadow: 10px;
-                border-radius: 20px;
-                left: 20px;
+                box-shadow:10px;
+                border-radius:20px;
+                left:20px;
                 }
 
                 #imgone{
                     position: relative;
                     width:300px;
                     height:330px;
-                   box-shadow: 10px;
-                   border-radius: 20px;
+                   box-shadow:10px;
+                   border-radius:20px;
                     }
             
             }
@@ -177,7 +177,7 @@ display: flex;
                 @media only screen and (min-width: 768px) {
                     #imagefooter{
                         position: relative;
-                        left: -40px;
+                        left:-40px;
 
                 } 
              
