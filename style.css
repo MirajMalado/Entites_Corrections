@@ -1,0 +1,189 @@
+*{
+    font-family: 'Nunito Sans', sans-serif;
+   
+    
+  
+    
+}
+#navbarcomp ul>li{
+    position: relative;
+    margin-left: 55px;
+    width: 100%;
+    
+    
+
+}
+
+
+#entity{
+    position: relative;
+    font-size:  58px; 
+}
+#description{
+    position: relative;
+   
+    font-size:  25px; 
+    color: #000;
+}
+
+#SCorp{
+   
+    font-size:  28px; 
+    color: #CE0033;
+}
+.image-container{
+    width: 100%;
+}
+.text-container{
+    width: 100%;
+}
+
+
+#paragraphe1{
+font-size: 25px;
+color: #000;
+
+}
+
+#bouton{
+    font-size: 18px;
+    background-color: #CE0033;
+    width:168px;
+    height:47px;
+    border-radius: 20px;
+    }
+
+#img1{
+    position: relative;
+    width:500px;
+    height:520px;
+    box-shadow: 10px -7px #CE0033 ;
+   border-radius: 20px;
+    }
+
+#img2{
+        position: relative;
+        width:500px;
+        height:520px;
+        box-shadow: 10px -7px #CE0033 ;
+        border-radius: 20px;
+    }
+    
+#SProd{
+    font-size:  28px; 
+    color: #CE0033;
+}
+#paragraphe2{
+    font-size: 25px;
+    color: #000;
+    
+}
+#btn{
+    font-size: 18px;
+    background-color: #CE0033;
+    width:168px;
+    height:47px;
+    border-radius: 20px;
+    }
+
+  #icons >a >i{
+      position: relative;
+    width: 50px;
+  }
+
+  #link >a{
+    color: white;
+  
+}
+#cordonnees >p{
+    color: white;
+  
+}
+#footerfoot{
+    
+display: flex;
+    
+}
+
+
+.nav-link text-body{
+    width: 50px;
+    
+}
+.active-link{
+    color: #ce0033 ;
+    border-bottom: 3px solid #CE0033;
+
+}
+
+
+
+
+@media screen and (max-width: 984px) {
+    .active-link{
+        color: #ce0033 ;
+        border-bottom: 3px solid #CE0033;
+        width: 50px;
+    
+    }
+
+  
+    
+    }
+
+    @media screen and (max-width: 753px) {
+        #im1{
+        position: relative;
+        width:400px;
+        height:520px;
+        box-shadow: 10px;
+        border-radius: 20px;
+        left: 20px;
+        }
+
+        #imgone{
+            position: relative;
+            width:400px;
+            height:520px;
+           box-shadow: 10px;
+           border-radius: 20px;
+            }
+
+            
+
+            
+        }
+        @media screen and (max-width:354px) {
+            #im1{
+                position: relative;
+                width:300px;
+                height:330px;
+                box-shadow: 10px;
+                border-radius: 20px;
+                left: 20px;
+                }
+
+                #imgone{
+                    position: relative;
+                    width:300px;
+                    height:330px;
+                   box-shadow: 10px;
+                   border-radius: 20px;
+                    }
+            
+            }
+
+            
+                @media only screen and (min-width: 768px) {
+                    #imagefooter{
+                        position: relative;
+                        left: -40px;
+
+                } 
+             
+            }
+            
+            
+         
+      
+        
